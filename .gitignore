@@ -2,3 +2,6 @@
 bin
 bin-release
 /ciacob-namespace.iml
+
+/.vscode
+/asconfig.json
